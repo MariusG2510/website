@@ -1,0 +1,151 @@
+body{
+  background: url(New_map.jpg), lightgray 50% / cover no-repeat;
+  background-size: auto;
+  width: 1440px;
+  height: 1024px;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size:1440px
+  
+}
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.can-t-sign-in {
+  color: #ffffff;
+  text-align: left;
+  font: 700 96px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 356px;
+  top: 201px;
+}
+.wow-it-sure-sucks-to-be-you {
+  color: #ffffff;
+  text-align: left;
+  font: 700 36px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 463px;
+  top: 351px;
+}
+.password-problems {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 307px;
+  height: 351px;
+  position: absolute;
+  left: 559px;
+  top: 501px;
+}
+.lost-your-password {
+  color: #979797;
+  text-align: left;
+  font: 700 24px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 590px;
+  top: 683px;
+}
+.icon {
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  left: 640px;
+  top: 527px;
+  overflow: visible;
+}
+.lmao-how-we-will-send-you-an-email {
+  color: #b8b8b8;
+  text-align: center;
+  font: 700 16px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 611px;
+  top: 733px;
+  width: 203px;
+  height: 21px;
+}
+.email-problems {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-72 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 307px;
+  height: 351px;
+  position: absolute;
+  left: 949px;
+  top: 501px;
+}
+.lost-your-email {
+  color: #979797;
+  text-align: left;
+  font: 700 24px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 1006px;
+  top: 683px;
+}
+.how-did-you-even-do-that-honestly-you-are-probably-too-young-to-even-play-this-game {
+  color: #b8b8b8;
+  text-align: center;
+  font: 700 16px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 992px;
+  top: 733px;
+  width: 221px;
+}
+.icon2 {
+  width: 141.78px;
+  height: 116px;
+  position: absolute;
+  left: 1032px;
+  top: 532px;
+  overflow: visible;
+}
+.user-problems {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-73 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 307px;
+  height: 351px;
+  position: absolute;
+  left: 170px;
+  top: 501px;
+}
+.icon3 {
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  left: 251px;
+  top: 527px;
+  overflow: visible;
+}
+.forgot-username {
+  color: #979797;
+  text-align: left;
+  font: 700 24px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 217px;
+  top: 683px;
+}
+.wow-how-we-will-send-you-an-email-or-something {
+  color: #b8b8b8;
+  text-align: center;
+  font: 700 16px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 213px;
+  top: 733px;
+  width: 221px;
+}

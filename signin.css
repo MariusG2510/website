@@ -1,0 +1,76 @@
+body{
+    background: url(New_map.jpg), lightgray 50% / cover no-repeat;
+    background-size: auto;
+    width: 1440px;
+    height: 1024px;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size:1440px
+    
+}
+.signin{
+    width: 489px;
+    height: 636px;
+    margin: auto;
+    background-color: white;
+    margin-top:194px;
+    font-family: Inter;
+}
+h1{
+    margin-left:184px;
+    color: #000;
+
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 102px;
+}
+form label input{
+    width: 389px;
+height: 46px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #F0F0F0;
+margin-left:48px;
+margin-top:14px;
+border:none;
+}
+::placeholder{
+    color: #C1C1C1;
+font-family: Khand;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding:13px;
+}
+input[type=checkbox]{
+    margin-left: 48px;
+    margin-top: 28px;
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+    border:none;
+
+}
+.button{
+    margin-top:100px;
+    margin-left:100px;
+}
+a{
+    color:gray;
+    text-decoration: none;
+    font-size: 11px;
+    font-family: "Khand";
+}
+.can{
+    margin-left:213px;
+}
+.create{
+    margin-left:209px;
+}
+.foo{
+    padding-right:13px
+}
